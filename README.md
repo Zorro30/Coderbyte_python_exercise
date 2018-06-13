@@ -12,3 +12,6 @@ Capitalize the first letter of each word.
 
 => cb_ex4.py
 The str parameter being passed and determine if it is an acceptable sequence by either returning the string true or false. The str parameter will be composed of + and = symbols with several letters between them (ie. ++d+===+c++==a) and for the string to be true each letter must be surrounded by a + symbol. 
+
+=> cb_ex5.py
+Return the string true if num2 is greater than num1, otherwise return the string false. If the parameter values are equal to each other then return the string -1. 
