@@ -7,21 +7,4 @@ def SimpleAdding(num):
     return total
     
 # keep this function call here  
-print (SimpleAdding(int(input("Input the number:"))))  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+print (SimpleAdding(int(input("Input the number:"))))

@@ -6,3 +6,7 @@ Change every letter in the string to the letter following it in the alphabet, so
 
 => cb_ex2.py
 Add up all the numbers from 1 to num. And return num.
+
+=> cb_ex3.py
+Capitalize the first letter of each word. 
+
