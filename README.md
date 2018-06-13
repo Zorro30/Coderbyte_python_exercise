@@ -10,3 +10,5 @@ Add up all the numbers from 1 to num. And return num.
 => cb_ex3.py
 Capitalize the first letter of each word. 
 
+=> cb_ex4.py
+The str parameter being passed and determine if it is an acceptable sequence by either returning the string true or false. The str parameter will be composed of + and = symbols with several letters between them (ie. ++d+===+c++==a) and for the string to be true each letter must be surrounded by a + symbol. 
