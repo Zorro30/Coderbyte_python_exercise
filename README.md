@@ -18,3 +18,6 @@ Return the string true if num2 is greater than num1, otherwise return the string
 
 => cb_ex6.py:
 Take the num parameter being passed and return the number of hours and minutes the parameter converts to (ie. if num = 63 then the output should be 1:3).
+
+=> cb_ex7.py:
+Arrange the letters in a word in Ascending order.
