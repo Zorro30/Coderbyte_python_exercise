@@ -21,3 +21,6 @@ Take the num parameter being passed and return the number of hours and minutes t
 
 => cb_ex7.py:
 Arrange the letters in a word in Ascending order.
+
+=> cb_ex9.py:
+Arrange the digits in descending order and in ascending order (adding zeroes to fit it to a 4-digit number), and subtract the smaller number from the bigger number. Then repeat the previous step. Performing this routine will always cause us to reach a fixed number: 6174. Then performing the routine on 6174 will always give you 6174 (7641 - 1467 = 6174). The program should return the number of times this routine must be performed until 6174 is reached. 
